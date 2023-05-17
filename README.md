@@ -1,2 +1,2 @@
 # zkape-airdrop-claimer
-Add keys to files/keys and run main.py for claimin zkape airdrop on zksync
+Add keys to files/keys and run main.py for claimin zkape airdrop on zksync - https://airdrop.zkape.io/#/
